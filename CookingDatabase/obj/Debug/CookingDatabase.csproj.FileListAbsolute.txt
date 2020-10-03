@@ -1,0 +1,12 @@
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\CookingDatabase.exe.config
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\CookingDatabase.exe
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\CookingDatabase.pdb
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\MySql.Data.dll
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\Google.Protobuf.dll
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\BouncyCastle.Crypto.dll
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\Ubiety.Dns.Core.dll
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\bin\Debug\Renci.SshNet.dll
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\obj\Debug\CookingDatabase.csprojResolveAssemblyReference.cache
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\obj\Debug\CookingDatabase.csproj.CoreCompileInputs.cache
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\obj\Debug\CookingDatabase.exe
+D:\Stéphan\OneDrive - De Vinci\Année 3\ESILV S6\Bases de données et interopérabilité\DM Cooking BDD ADJARIAN Stéphan NEBOUT Alexandra TDM\DM cooking\CookingDatabase\obj\Debug\CookingDatabase.pdb
